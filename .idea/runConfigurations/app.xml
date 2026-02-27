@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+    <option name="DEPLOY_AS_INSTANT" value="false" />
+    <option name="DEPLOY_FROM_BUNDLE" value="true" />
+    <option name="DEPLOY_FROM_BUNDLE_ON_DEMAND" value="true" />
+    <option name="DEPLOY_FROM_BUNDLE_ON_DEMAND_FOR_BUNDLE" value="" />
+    <option name="DEPLOY_FROM_BUNDLE_ON_DEMAND_FOR_ON_DEMAND_BUNDLE" value="" />
+    <option name="DEPLOY_MULTIPLE_APKS" value="false" />
+    <option name="DEPLOY_TO_MULTIPLE_DEVICES" value="false" />
+    <option name="DEPLOY_TO_MULTIPLE_DEVICES_SELECT_DEVICES" value="false" />
+    <option name="DEPLOY_TO_MULTIPLE_DEVICES_SELECT_DEVICE_STATES" value="false" />
+    <option name="DEPLOY_TO_MULTIPLE_DEVICES_SELECT_EXECUTION_TYPE" value="false" />
+    <option name="DEPLOY_TO_MULTIPLE_DEVICES_SERIAL_NUMBERS_EXPR" value="" />
+    <option name="DEPLOY_TO_MULTIPLE_DEVICES_DEVICE_STATES_EXPR" value="" />
+    <option name="DEPLOY_TO_MULTIPLE_DEVICES_EXECUTION_TYPE_EXPR" value="" />
+    <option name="MULTI_DEVICE_SAMPLE_SYNC_MODE" value="DEVICES" />
+    <option name="ALLOW_MULTIPLE_INSTANCES" value="true" />
+    <option name="CLEAR_LOGCAT" value="false" />
+    <option name="CLEAR_APP_STORAGE" value="false" />
+    <option name="WAIT_FOR_DEBUGGER" value="false" />
+    <option name="FORCE_STOP_RUNNING_APP" value="true" />
+    <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+    <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+    <option name="SELECTED_DEVICE_ID" value="" />
+    <option name="SELECTED_RUNNING_DEVICE_ID" value="" />
+    <option name="INSTANTRUN_DISPLAY_TOASTS" value="false" />
+    <option name="PM_INSTALL_FLAGS" value="" />
+    <option name="ALL_USERS" value="false" />
+    <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+    <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+    <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+    <option name="MODE" value="default_activity" />
+    <option name="ACTIVITY_CLASS" value="com.example.app_kotlin.MainActivity" />
+    <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+    <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+    <method v="2">
+      <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
+
